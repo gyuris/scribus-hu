@@ -4961,7 +4961,7 @@ Convert to oulines</comment>
         <location filename="../../../scribus/annot.cpp" line="649"/>
         <location filename="../../../scribus/annot.cpp" line="658"/>
         <source> pt</source>
-        <translation>pt</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/annot.cpp" line="654"/>
@@ -5271,22 +5271,22 @@ action</comment>
     <message>
         <location filename="../../../scribus/annot.cpp" line="685"/>
         <source>FDF</source>
-        <translation>FDF</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/annot.cpp" line="685"/>
         <source>HTML</source>
-        <translation>HTML</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/annot.cpp" line="685"/>
         <source>XFDF</source>
-        <translation>XFDF</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/annot.cpp" line="685"/>
         <source>PDF</source>
-        <translation>PDF</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -5325,7 +5325,7 @@ action</comment>
         <location filename="../../../scribus/annota.cpp" line="168"/>
         <location filename="../../../scribus/annota.cpp" line="177"/>
         <source> pt</source>
-        <translation> pt</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/annota.cpp" line="409"/>
@@ -6573,14 +6573,14 @@ It is recommended that you enable this if you have photos in your document.</sou
         <location filename="../../../scribus/cmykfw.cpp" line="899"/>
         <location filename="../../../scribus/cmykfw.cpp" line="906"/>
         <source>CMYK</source>
-        <translation>CMYK</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/cmykfw.cpp" line="117"/>
         <location filename="../../../scribus/cmykfw.cpp" line="414"/>
         <location filename="../../../scribus/cmykfw.cpp" line="911"/>
         <source>RGB</source>
-        <translation>RGB</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/cmykfw.cpp" line="118"/>
@@ -6606,7 +6606,7 @@ It is recommended that you enable this if you have photos in your document.</sou
         <location filename="../../../scribus/cmykfw.cpp" line="266"/>
         <location filename="../../../scribus/cmykfw.cpp" line="705"/>
         <source>C:</source>
-        <translation>C:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/cmykfw.cpp" line="288"/>
@@ -6617,24 +6617,24 @@ It is recommended that you enable this if you have photos in your document.</sou
         <location filename="../../../scribus/cmykfw.cpp" line="703"/>
         <location filename="../../../scribus/cmykfw.cpp" line="704"/>
         <source> %</source>
-        <translation>%</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/cmykfw.cpp" line="293"/>
         <location filename="../../../scribus/cmykfw.cpp" line="706"/>
         <source>M:</source>
-        <translation>M:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/cmykfw.cpp" line="320"/>
         <location filename="../../../scribus/cmykfw.cpp" line="707"/>
         <source>Y:</source>
-        <translation>Y:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/cmykfw.cpp" line="347"/>
         <source>K:</source>
-        <translation>K:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/cmykfw.cpp" line="444"/>
@@ -6649,17 +6649,17 @@ It is recommended that you enable this if you have photos in your document.</sou
     <message>
         <location filename="../../../scribus/cmykfw.cpp" line="749"/>
         <source>R:</source>
-        <translation>R:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/cmykfw.cpp" line="750"/>
         <source>G:</source>
-        <translation>G:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/cmykfw.cpp" line="751"/>
         <source>B:</source>
-        <translation>B:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/cmykfw.cpp" line="125"/>
@@ -6693,7 +6693,7 @@ adjon meg egy másik nevet.</translation>
         <location filename="../../../scribus/cmykfw.cpp" line="784"/>
         <location filename="../../../scribus/cmykfw.cpp" line="785"/>
         <source>If color management is enabled, a triangle warning indicator is a warning that the color maybe outside of the color gamut of the current printer profile selected. What this means is the color may not print exactly as indicated on screen. More hints about gamut warnings are in the online help under Color Management.</source>
-        <translation>Akítv színkezelés esetén egy kis háromszögű figyelmeztető jelzés látható, ha a szín valószínűleg kívül esik a kiválasztott nyomtató-profil színkorlátján. Ez azt jelenti, hogy a szín nyomtatásban valószínűleg nem úgy jelenik meg, mint a képernyőn. A színkorlát (gamut) figyelmeztetésekről további útmutató az online dokumentáció Színkezelés fejezetében található.</translation>
+        <translation>Aktív színkezelés esetén egy kis háromszögű figyelmeztető jelzés látható, ha a szín valószínűleg kívül esik a kiválasztott nyomtató-profil színkorlátján. Ez azt jelenti, hogy a szín nyomtatásban valószínűleg nem úgy jelenik meg, mint a képernyőn. A színkorlát (gamut) figyelmeztetésekről további útmutató az online dokumentáció Színkezelés fejezetében található.</translation>
     </message>
     <message>
         <location filename="../../../scribus/cmykfw.cpp" line="995"/>
@@ -6739,22 +6739,22 @@ Adjon meg egy nevet</translation>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.cpp" line="330"/>
         <source>Color %1 appended.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 szín hozzáfűzve.</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.cpp" line="334"/>
         <source>Now opening the color manager.</source>
-        <translation>Szín kezelő megnyitása folyik.</translation>
+        <translation>Színkezelő megnyitása folyamatban.</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.cpp" line="337"/>
         <source>Color Merging</source>
-        <translation>Szín összefésülés</translation>
+        <translation>Színösszefésülés</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.cpp" line="486"/>
         <source>Unable to find the requested color. You have probably selected black, gray or white. There is no way to process this color.</source>
-        <translation type="unfinished"></translation>
+        <translation>A kért szín nem található. Valószínűleg fekete, szürke vagy fehér szín lett kiválaszta. Nincs mód e színek feldogozására.</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="15"/>
@@ -6764,40 +6764,40 @@ Adjon meg egy nevet</translation>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="45"/>
         <source>Click the wheel to get the base color. Its color model depends on the chosen tab.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kattitson a színkerékre az alapszín megadásához. A színmodel a listában kiválasztott értéktől függ.</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="52"/>
         <source>Result Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Eredmény színek</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="77"/>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="322"/>
         <source>CMYK</source>
-        <translation>CMYK</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="82"/>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="543"/>
         <source>RGB</source>
-        <translation>RGB</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="87"/>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="729"/>
         <source>HSV</source>
-        <translation>HSV</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="106"/>
         <source>Colors of your chosen color scheme.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiválasztott színösszeállítás színei.</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="116"/>
         <source>Color Scheme Method</source>
-        <translation type="unfinished"></translation>
+        <translation>Színösszeállítási mód</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="142"/>
@@ -6812,7 +6812,7 @@ Adjon meg egy nevet</translation>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="167"/>
         <source>Select one of the methods to create a color scheme. Refer to documentation for more information.</source>
-        <translation>A szín séma létrehozásához válasszon a módszerek közül. További információt a dokumentációban talál.</translation>
+        <translation>Színösszeállítás létrehozásához válasszon a módszerek közül. További információt a dokumentációban talál.</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="201"/>
@@ -6847,7 +6847,7 @@ Adjon meg egy nevet</translation>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="227"/>
         <source>Leave colors untouched</source>
-        <translation type="unfinished"></translation>
+        <translation>Színek változatlanul hagyása</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="230"/>
@@ -6867,22 +6867,22 @@ Adjon meg egy nevet</translation>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="266"/>
         <source>Sample color scheme.</source>
-        <translation>Szín séma minta.</translation>
+        <translation>Színösszeállítás minta.</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="285"/>
         <source>Simulate common vision defects here. Select type of the defect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Megszokott látási hibák szimulálása. Válassza ki a típust.</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="292"/>
         <source>Vision Defect Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Látási hiba típusa:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="342"/>
         <source>C:</source>
-        <translation>C:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="352"/>
@@ -6890,70 +6890,70 @@ Adjon meg egy nevet</translation>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="412"/>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="442"/>
         <source> %</source>
-        <translation>%</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="372"/>
         <source>M:</source>
-        <translation>M:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="402"/>
         <source>Y:</source>
-        <translation>Y:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="432"/>
         <source>K:</source>
-        <translation>K:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="462"/>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="838"/>
         <source>RGB:</source>
-        <translation>RGB:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="498"/>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="685"/>
         <source>HSV:</source>
-        <translation>HSV:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="571"/>
         <source>R:</source>
-        <translation>R:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="598"/>
         <source>G:</source>
-        <translation>G:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="625"/>
         <source>B:</source>
-        <translation>B:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="652"/>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="874"/>
         <source>CMYK:</source>
-        <translation>CMYK:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="757"/>
         <source>H:</source>
-        <translation>H:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="784"/>
         <source>S:</source>
-        <translation>S:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="811"/>
         <source>V:</source>
-        <translation>V:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="918"/>
@@ -7797,12 +7797,12 @@ currently %2 x %3 DPI</source>
     <message>
         <location filename="../../../scribus/colorm.cpp" line="103"/>
         <source>Color Sets</source>
-        <translation>Szín készlet</translation>
+        <translation>Színkészlet</translation>
     </message>
     <message>
         <location filename="../../../scribus/colorm.cpp" line="109"/>
         <source>Current Color Set:</source>
-        <translation>Jelenlegi szín készlet:</translation>
+        <translation>Jelenlegi színkészlet:</translation>
     </message>
     <message>
         <location filename="../../../scribus/colorm.cpp" line="140"/>
@@ -7812,22 +7812,22 @@ currently %2 x %3 DPI</source>
     <message>
         <location filename="../../../scribus/colorm.cpp" line="159"/>
         <source>Choose a color set to load</source>
-        <translation>Válassza ki a betöltendő szín készletet</translation>
+        <translation>Válassza ki a betöltendő színkészletet</translation>
     </message>
     <message>
         <location filename="../../../scribus/colorm.cpp" line="160"/>
         <source>Save the current color set</source>
-        <translation>Jelenlegi szín készlet mentése</translation>
+        <translation>Jelenlegi színkészlet mentése</translation>
     </message>
     <message>
         <location filename="../../../scribus/colorm.cpp" line="165"/>
         <source>Remove unused colors from current document&apos;s color set</source>
-        <translation>Nem használt színek eltávolítása a jelenlegi dokumentum szín készletéből</translation>
+        <translation>Nem használt színek eltávolítása a jelenlegi dokumentum színkészletéből</translation>
     </message>
     <message>
         <location filename="../../../scribus/colorm.cpp" line="167"/>
         <source>Import colors to the current set from an existing document</source>
-        <translation>Egy létező dokumentumból a színek importálása a jelenlegi készletbe.</translation>
+        <translation>Színek importálása egy létező dokumentumból a jelenlegi készletbe</translation>
     </message>
     <message>
         <location filename="../../../scribus/colorm.cpp" line="168"/>
@@ -7842,17 +7842,17 @@ currently %2 x %3 DPI</source>
     <message>
         <location filename="../../../scribus/colorm.cpp" line="170"/>
         <source>Make a copy of the currently selected color</source>
-        <translation>Jelenleg kijelölt szín lemásolása</translation>
+        <translation>Másolat készítése a jelenleg kijelölt színről</translation>
     </message>
     <message>
         <location filename="../../../scribus/colorm.cpp" line="171"/>
         <source>Delete the currently selected color</source>
-        <translation>A kiválasztott szín törlése</translation>
+        <translation>Kiválasztott szín törlése</translation>
     </message>
     <message>
         <location filename="../../../scribus/colorm.cpp" line="172"/>
         <source>Make the current colorset the default color set</source>
-        <translation>A jelenlegi szín készlet legyen az alapértelmezett</translation>
+        <translation>Jelenlegi színkészlet legyen az alapértelmezett</translation>
     </message>
     <message>
         <location filename="../../../scribus/colorm.cpp" line="190"/>
@@ -7879,7 +7879,7 @@ currently %2 x %3 DPI</source>
     <message>
         <location filename="../../../scribus/colorm.cpp" line="353"/>
         <source>Copy of %1</source>
-        <translation>%1 másolása</translation>
+        <translation>%1 másolata</translation>
     </message>
     <message>
         <location filename="../../../scribus/colorm.cpp" line="364"/>
@@ -7898,17 +7898,21 @@ If the file was a PostScript-based, try to import it with File -&amp;gt; Import.
 Not all files have DSC conformant comments where the color descriptions are located.
  This prevents importing colors from some files.
 See the Edit Colors section of the documentation for more details.</source>
-        <translation type="unfinished"></translation>
+        <translation>A fájl nem tartalmazott importálható színeket: %1.
+Ha a fájl PostScript alapú, próbálja meg a Fájl menü Importálás parancsával.
+Nincs minden fájlnak DSC konform megjegyzése, ahol a színekre vonatkozó információk tárolódnak.
+Ez megakadályozza néhány fájlból a színek importálását.
+További információkért lásd a dokumentáció Színek szerkesztése fejezetét.</translation>
     </message>
     <message>
         <location filename="../../../scribus/colorm.cpp" line="173"/>
         <source>If color management is enabled, a triangle warning indicator is a warning that the color maybe outside of the color gamut of the current printer profile selected. What this means is the color may not print exactly as indicated on screen. Spot colors are indicated by a red circle. More hints about gamut warnings are in the online help under Color Management. Registration colors will have a registration mark next to the color. Use Registration only for printers marks and crop marks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktív színkezelés esetén egy kis háromszögű figyelmeztető jelzés látható, ha a szín valószínűleg kívül esik a kiválasztott nyomtató-profil színkorlátján. Ez azt jelenti, hogy a szín nyomtatásban valószínűleg nem úgy jelenik meg, mint a képernyőn. A direkt színek egy piros körrel vannak megjelölve. A színkorlát (gamut) figyelmeztetésekről további útmutató az online dokumentáció Színkezelés fejezetében található. Regisztrációs színek egy regisztrációs jellel vannak megjelölve a szín mögött. A regisztrációs színt csak a nyomdai jelekre és a vágójelekre alkalmazza.</translation>
     </message>
     <message>
         <location filename="../../../scribus/colorm.cpp" line="311"/>
         <source>All Supported Formats (%1);;Documents (%2);;Other Files (%3);;All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Minden támogatott formátum (%1);;Dokumentumok (%2);;Egyéb fájlok (%3);;Minden fájl (*)</translation>
     </message>
     <message>
         <location filename="../../../scribus/colorm.cpp" line="312"/>
@@ -7921,7 +7925,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/colorwheelwidget.cpp" line="139"/>
         <source>Monochromatic</source>
-        <translation>Monokromatikus</translation>
+        <translation>Egyszínű</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/colorwheelwidget.cpp" line="140"/>
@@ -7932,22 +7936,22 @@ See the Edit Colors section of the documentation for more details.</source>
         <location filename="../../../scribus/plugins/colorwheel/colorwheelwidget.cpp" line="141"/>
         <location filename="../../../scribus/plugins/colorwheel/colorwheelwidget.cpp" line="224"/>
         <source>Complementary</source>
-        <translation>Komplemens</translation>
+        <translation>Kiegészítő</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/colorwheelwidget.cpp" line="142"/>
         <source>Split Complementary</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiegészítő szomszéd</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/colorwheelwidget.cpp" line="143"/>
         <source>Triadic</source>
-        <translation type="unfinished"></translation>
+        <translation>Harmadolás</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/colorwheelwidget.cpp" line="144"/>
         <source>Tetradic (Double Complementary)</source>
-        <translation type="unfinished"></translation>
+        <translation>Negyedelés</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/colorwheelwidget.cpp" line="44"/>
@@ -7957,67 +7961,67 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/colorwheelwidget.cpp" line="206"/>
         <source>Monochromatic Light</source>
-        <translation>Monokromatikus világos</translation>
+        <translation>Egyszínű világos</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/colorwheelwidget.cpp" line="209"/>
         <source>Monochromatic Dark</source>
-        <translation>Monokromatikus sötét</translation>
+        <translation>Egyszínű sötét</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/colorwheelwidget.cpp" line="216"/>
         <source>1st. Analogous</source>
-        <translation type="unfinished"></translation>
+        <translation>Analóg 1</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/colorwheelwidget.cpp" line="217"/>
         <source>2nd. Analogous</source>
-        <translation type="unfinished"></translation>
+        <translation>Analóg 2</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/colorwheelwidget.cpp" line="231"/>
         <source>1st. Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Szomszéd 1</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/colorwheelwidget.cpp" line="232"/>
         <source>2nd. Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Szomszéd 2</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/colorwheelwidget.cpp" line="233"/>
         <source>3rd. Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Szomszéd 3</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/colorwheelwidget.cpp" line="234"/>
         <source>4th. Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Szomszéd 4</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/colorwheelwidget.cpp" line="241"/>
         <source>1st. Triadic</source>
-        <translation type="unfinished"></translation>
+        <translation>Harmadolás 1</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/colorwheelwidget.cpp" line="242"/>
         <source>2nd. Triadic</source>
-        <translation type="unfinished"></translation>
+        <translation>Harmadolás 2</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/colorwheelwidget.cpp" line="249"/>
         <source>1st. Tetradic (base opposite)</source>
-        <translation type="unfinished"></translation>
+        <translation>Negyedelés 1 (szemben lévő)</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/colorwheelwidget.cpp" line="250"/>
         <source>2nd. Tetradic (angle)</source>
-        <translation type="unfinished"></translation>
+        <translation>Negyedelés 2 (szög)</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/colorwheelwidget.cpp" line="251"/>
         <source>3rd. Tetradic (angle opposite)</source>
-        <translation type="unfinished"></translation>
+        <translation>Negyedelés 3 (szöggel szemben lévő)</translation>
     </message>
 </context>
 <context>
@@ -8153,12 +8157,12 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/colorwheel.cpp" line="64"/>
         <source>Color setting helper</source>
-        <translation>Színbeállítás segítség</translation>
+        <translation>Színbeállítási segéd</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/colorwheel.cpp" line="65"/>
         <source>Color selector with color theory included.</source>
-        <translation type="unfinished"></translation>
+        <translation>Színválasztó színelméleti segédlettel.</translation>
     </message>
 </context>
 <context>
@@ -8561,13 +8565,13 @@ CommonStrings, custom page size</comment>
         <location filename="../../../scribus/commonstrings.cpp" line="350"/>
         <source>RGB</source>
         <comment>Colorspace</comment>
-        <translation>RGB</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="351"/>
         <source>CMYK</source>
         <comment>Colorspace</comment>
-        <translation>CMYK</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="352"/>
@@ -8763,7 +8767,7 @@ CommonStrings, custom page size</comment>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="985"/>
         <source> %</source>
-        <translation> %</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="229"/>
@@ -8787,7 +8791,7 @@ CommonStrings, custom page size</comment>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="989"/>
         <source>X:</source>
-        <translation>X:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="993"/>
@@ -8881,7 +8885,7 @@ CommonStrings, custom page size</comment>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="984"/>
         <source> pt</source>
-        <translation>pt</translation>
+        <translation></translation>
     </message>
     <message>
         <source>X2:</source>
@@ -9008,7 +9012,7 @@ CommonStrings, custom page size</comment>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="991"/>
         <source>Y:</source>
-        <translation>Y:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="1029"/>
@@ -10766,12 +10770,12 @@ failed!</source>
         <location filename="../../../scribus/plugins/pixmapexport/exportform.ui" line="94"/>
         <location filename="../../../scribus/plugins/pixmapexport/exportform.ui" line="126"/>
         <source> %</source>
-        <translation> %</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/pixmapexport/exportform.ui" line="110"/>
         <source> dpi</source>
-        <translation> dpi</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/pixmapexport/exportform.ui" line="175"/>
@@ -11021,7 +11025,7 @@ Az exportálandó fájl neve ilyen lesz: dokumentumnév-oldalszám.fájltípus</
     <message>
         <location filename="../../../scribus/extimageprops.cpp" line="127"/>
         <source> %</source>
-        <translation>%</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/extimageprops.cpp" line="133"/>
@@ -11095,7 +11099,7 @@ Az exportálandó fájl neve ilyen lesz: dokumentumnév-oldalszám.fájltípus</
     <message>
         <location filename="../../../scribus/customfdialog.cpp" line="199"/>
         <source>DPI</source>
-        <translation>DPI</translation>
+        <translation></translation>
     </message>
     <message>
         <source>CMYK</source>
@@ -11108,7 +11112,7 @@ Az exportálandó fájl neve ilyen lesz: dokumentumnév-oldalszám.fájltípus</
     <message>
         <location filename="../../../scribus/customfdialog.cpp" line="205"/>
         <source>Colorspace:</source>
-        <translation>Színskála:</translation>
+        <translation>Színtér:</translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -11716,7 +11720,7 @@ Az exportálandó fájl neve ilyen lesz: dokumentumnév-oldalszám.fájltípus</
     <message>
         <location filename="../../../scribus/gradienteditor.cpp" line="328"/>
         <source> %</source>
-        <translation>%</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/gradienteditor.cpp" line="336"/>
@@ -12822,7 +12826,7 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="19"/>
         <source>Imposition</source>
-        <translation type="unfinished"></translation>
+        <translation>Kilövés</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="44"/>
@@ -12857,27 +12861,27 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="253"/>
         <source>&amp;Booklet</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Füzet</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="285"/>
         <source>Pages per sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Oldalak laponként</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="296"/>
         <source>4</source>
-        <translation>4</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="301"/>
         <source>8</source>
-        <translation>8</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="306"/>
         <source>16</source>
-        <translation>16</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="318"/>
@@ -12890,17 +12894,17 @@ converting their vector data into Scribus objects.</source>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Separate pages with a comma, ranges with a hyphen, e.g. 1,4,9-11 to get pages 1,4,9,10,11.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Oldalak elválasztása vesszővel, tartományok kötőjellel, péládul az 1,4,9-11 az alábbi oldalakat jelöli ki: 1,4,9,10,11</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="339"/>
         <source>Fold</source>
-        <translation type="unfinished"></translation>
+        <translation>Hajtogatás</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="349"/>
         <source>Front page from</source>
-        <translation type="unfinished"></translation>
+        <translation>Címoldal innen</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="376"/>
@@ -12910,12 +12914,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="387"/>
         <source>Back page from</source>
-        <translation type="unfinished"></translation>
+        <translation>Hátoldal innen</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="415"/>
         <source>Destination page</source>
-        <translation type="unfinished"></translation>
+        <translation>Cél oldal</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="455"/>
@@ -12945,7 +12949,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="627"/>
         <source>Refresh preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Előnézet frissítése</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="671"/>
@@ -12973,17 +12977,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionplugin.cpp" line="37"/>
         <source>&amp;Imposition...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kilövés...</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionplugin.cpp" line="69"/>
         <source>Imposition dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Kilövés párbeszédablak</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionplugin.cpp" line="70"/>
         <source>Imposition on grids, booklets and folds</source>
-        <translation type="unfinished"></translation>
+        <translation>Kilövés rácsra, füzetek és hajtogatások</translation>
     </message>
 </context>
 <context>
@@ -13730,7 +13734,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/latexeditor.ui" line="84"/>
         <source> DPI</source>
-        <translation> DPI</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/latexeditor.ui" line="97"/>
@@ -13874,7 +13878,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../../../scribus/layers.cpp" line="60"/>
         <location filename="../../../scribus/layers.cpp" line="587"/>
         <source> %</source>
-        <translation>%</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/layers.cpp" line="568"/>
@@ -14833,7 +14837,7 @@ p, li { white-space: pre-wrap; }
     <message utf8="true">
         <location filename="../../../scribus/measurements.cpp" line="51"/>
         <source> °</source>
-        <translation> °</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -15811,7 +15815,7 @@ Ha nincs kijelölve egy köröcske, az összes alaphelyzetbe lesz állítva.</tr
     <message>
         <location filename="../../../scribus/nodeeditpalette.cpp" line="898"/>
         <source> %</source>
-        <translation>%</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/nodeeditpalette.cpp" line="939"/>
@@ -16195,7 +16199,7 @@ Ha nincs kijelölve egy köröcske, az összes alaphelyzetbe lesz állítva.</tr
     <message>
         <location filename="../../../scribus/styleselect.cpp" line="97"/>
         <source> %</source>
-        <translation>%</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/styleselect.cpp" line="98"/>
@@ -16389,22 +16393,22 @@ Ha nincs kijelölve egy köröcske, az összes alaphelyzetbe lesz állítva.</tr
     <message>
         <location filename="../../../scribus/preview.cpp" line="236"/>
         <source>&amp;C</source>
-        <translation>&amp;C</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/preview.cpp" line="241"/>
         <source>&amp;M</source>
-        <translation>&amp;M</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/preview.cpp" line="246"/>
         <source>&amp;Y</source>
-        <translation>&amp;Y</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/preview.cpp" line="251"/>
         <source>&amp;K</source>
-        <translation>&amp;K</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/preview.cpp" line="356"/>
@@ -16589,7 +16593,7 @@ Ha nincs kijelölve egy köröcske, az összes alaphelyzetbe lesz állítva.</tr
     <message>
         <location filename="../../../scribus/preview.cpp" line="217"/>
         <source> %</source>
-        <translation> %</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/preview.cpp" line="221"/>
@@ -17036,7 +17040,7 @@ relationship</comment>
     <message>
         <location filename="../../../scribus/pageitem_latexframe.cpp" line="576"/>
         <source>DPI</source>
-        <translation>DPI</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/pageitem_latexframe.cpp" line="578"/>
@@ -17556,22 +17560,22 @@ both end points must lie outside of the polygon</source>
     <message utf8="true">
         <location filename="../../../scribus/plugins/tools/2geomtools/pathalongpath/pathdialogbase.ui" line="80"/>
         <source>0°</source>
-        <translation>0°</translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="../../../scribus/plugins/tools/2geomtools/pathalongpath/pathdialogbase.ui" line="85"/>
         <source>90°</source>
-        <translation>90°</translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="../../../scribus/plugins/tools/2geomtools/pathalongpath/pathdialogbase.ui" line="90"/>
         <source>180°</source>
-        <translation>180°</translation>
+        <translation></translation>
     </message>
     <message utf8="true">
         <location filename="../../../scribus/plugins/tools/2geomtools/pathalongpath/pathdialogbase.ui" line="95"/>
         <source>270°</source>
-        <translation>270°</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -17944,7 +17948,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../../scribus/picsearch.cpp" line="109"/>
         <source>DPI</source>
-        <translation>DPI</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/picsearch.cpp" line="112"/>
@@ -17962,7 +17966,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../../scribus/picsearch.cpp" line="115"/>
         <source>Colorspace:</source>
-        <translation>Színskála:</translation>
+        <translation>Színtér:</translation>
     </message>
     <message>
         <location filename="../../../scribus/picsearch.ui" line="86"/>
@@ -18013,7 +18017,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../../scribus/picsearchoptions.cpp" line="51"/>
         <source>The filesystem will be searched for case insensitive file names when you check this on. Remember it is not default on most operating systems except MS Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>A fájlrendszeren történő keresés nem lesz érzékeny a kis- és nagybetűkre. Figyelem, számos rendszeres ez nem az alapbeállítás, kivéve az MS Windows-t</translation>
     </message>
     <message>
         <location filename="../../../scribus/picsearchoptions.cpp" line="58"/>
@@ -18055,7 +18059,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../../scribus/picsearchoptions.ui" line="38"/>
         <source>Start at:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiindulópont:</translation>
     </message>
     <message>
         <location filename="../../../scribus/picsearchoptions.ui" line="64"/>
@@ -18070,18 +18074,19 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../../scribus/picsearchoptions.ui" line="141"/>
         <source>Case insensitive search</source>
-        <translation type="unfinished"></translation>
+        <translation>Kis- és nagybetűre nem érzékeny keresés</translation>
     </message>
     <message>
         <location filename="../../../scribus/picsearchoptions.ui" line="148"/>
         <source>Search recursively</source>
-        <translation type="unfinished"></translation>
+        <translation>Rekurzív keresés</translation>
     </message>
     <message>
         <location filename="../../../scribus/picsearchoptions.cpp" line="103"/>
         <source>Base directory for search does not exist.
 Please choose another one.</source>
-        <translation type="unfinished"></translation>
+        <translation>A keresés alapkönyvtára nem létezik.
+Adjon meg egy másikat.</translation>
     </message>
 </context>
 <context>
@@ -18160,42 +18165,42 @@ Please choose another one.</source>
     <message>
         <location filename="../../../scribus/picstatus.cpp" line="259"/>
         <source>Not on a Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs az oldalon</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.cpp" line="284"/>
         <source>JPG</source>
-        <translation>JPG</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.cpp" line="287"/>
         <source>TIFF</source>
-        <translation>TIFF</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.cpp" line="290"/>
         <source>PSD</source>
-        <translation>PSD</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.cpp" line="293"/>
         <source>EPS/PS</source>
-        <translation>EPS/PS</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.cpp" line="296"/>
         <source>PDF</source>
-        <translation>PDF</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.cpp" line="299"/>
         <source>JPG2000</source>
-        <translation>JPG2000</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.cpp" line="305"/>
         <source>emb. PSD</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.cpp" line="311"/>
@@ -18213,7 +18218,7 @@ Please choose another one.</source>
     <message>
         <location filename="../../../scribus/picstatus.cpp" line="328"/>
         <source>n/a</source>
-        <translation type="unfinished"></translation>
+        <translation>nem érhető el</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="83"/>
@@ -18243,7 +18248,7 @@ Please choose another one.</source>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="288"/>
         <source>DPI:</source>
-        <translation>DPI:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="221"/>
@@ -18253,7 +18258,7 @@ Please choose another one.</source>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="256"/>
         <source>Colorspace:</source>
-        <translation>Színskála:</translation>
+        <translation>Színtér:</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="323"/>
@@ -18273,7 +18278,7 @@ Please choose another one.</source>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="387"/>
         <source>Printed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyomtatás:</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="425"/>
@@ -18283,7 +18288,7 @@ Please choose another one.</source>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="433"/>
         <source>On Page:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ezen az oldalon:</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="546"/>
@@ -18293,17 +18298,17 @@ Please choose another one.</source>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="575"/>
         <source>Image Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Kép eszközök</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="623"/>
         <source>Image Visible</source>
-        <translation type="unfinished"></translation>
+        <translation>Kép látható</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="633"/>
         <source>Image Effects...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kép effektusok...</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="613"/>
@@ -18313,17 +18318,17 @@ Please choose another one.</source>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="600"/>
         <source>Extended Image Properties...</source>
-        <translation type="unfinished"></translation>
+        <translation>Bővített kép tulajdonságok...</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.cpp" line="228"/>
         <source>Sort by Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendezés név szerint</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.cpp" line="230"/>
         <source>Sort by Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendezés oldalak szerint</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="16"/>
@@ -18333,102 +18338,102 @@ Please choose another one.</source>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="530"/>
         <source>Go to</source>
-        <translation type="unfinished"></translation>
+        <translation>Ugrás</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="127"/>
         <source>Name of the image file</source>
-        <translation type="unfinished"></translation>
+        <translation>Képfájl neve</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="177"/>
         <source>Location where the image file is stored</source>
-        <translation type="unfinished"></translation>
+        <translation>A hely, ahova a képfájl el van mentve</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="195"/>
         <source>Search for a missing image</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiányzó kép keresése</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="240"/>
         <source>Type of the image</source>
-        <translation type="unfinished"></translation>
+        <translation>Kép típusa</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="253"/>
         <source>The colorspace of the image</source>
-        <translation type="unfinished"></translation>
+        <translation>Kép színtere</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="275"/>
         <source>Colorspace used within the image, eg RGB or CMYK</source>
-        <translation type="unfinished"></translation>
+        <translation>A képben alkalmazott színtér, pl. RGB vagy CMYK</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="307"/>
         <source>Native resolution of the image, in dots per inch</source>
-        <translation type="unfinished"></translation>
+        <translation>Kép natív felbontása pont/hüvelyk-ben</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="345"/>
         <source>Height and width of the image</source>
-        <translation type="unfinished"></translation>
+        <translation>Kép magassága és szélessége</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="374"/>
         <source>Horizontal and vertical scaling applied to the image</source>
-        <translation type="unfinished"></translation>
+        <translation>A képen alkalmazott vízszintes és függőleges méretezés</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="409"/>
         <source>Size of the image when printed</source>
-        <translation type="unfinished"></translation>
+        <translation>A kép nyomtatott mérete</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="449"/>
         <source>Page that the image is displayed on</source>
-        <translation type="unfinished"></translation>
+        <translation>Az oldal, amelyen megjelenik a kép</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="462"/>
         <source>Page Item:</source>
-        <translation type="unfinished"></translation>
+        <translation>Oldalelem:</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="478"/>
         <source>Name of the page item that contains the image</source>
-        <translation type="unfinished"></translation>
+        <translation>Az oldalelem neve, mely tartalmazza a képet</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="491"/>
         <source>Effective DPI:</source>
-        <translation type="unfinished"></translation>
+        <translation>Érvényes DPI:</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="510"/>
         <source>Effective resolution of the image after scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>A kép méretezése utáni tényleges felbontás</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="527"/>
         <source>Move to the page that the image is on</source>
-        <translation type="unfinished"></translation>
+        <translation>Ugrás az oldalra, amelyen a kép szerepel</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="543"/>
         <source>Move to the page that the item is on and select it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ugrás az oldalra, amelyen a kép szerepel, majd a kép kijelölése</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="587"/>
         <source>Enable or disable exporting of the item</source>
-        <translation type="unfinished"></translation>
+        <translation>Kép exportálásának engedélyezése és tiltása</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="590"/>
         <source>Export/Print Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Kép exportálása és nyomtatása</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="597"/>
@@ -18438,17 +18443,17 @@ Please choose another one.</source>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="610"/>
         <source>Edit the image in the default editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Kép szerkesztése az alapértelmezett szerkesztőben</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="620"/>
         <source>Make the image visible or invisible</source>
-        <translation type="unfinished"></translation>
+        <translation>Kép láthatóvá tétele vagy elrejtése</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="630"/>
         <source>Apply non destructive effects to the image in its frame</source>
-        <translation type="unfinished"></translation>
+        <translation>A képet nem rongáló effektusok alkalmazása a kép keretén</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.cpp" line="128"/>
@@ -18897,7 +18902,7 @@ Please choose another one.</source>
         <location filename="../../../scribus/polygonwidgetbase.ui" line="174"/>
         <location filename="../../../scribus/polygonwidgetbase.ui" line="216"/>
         <source> %</source>
-        <translation> %</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/polygonwidgetbase.ui" line="206"/>
@@ -21595,7 +21600,7 @@ Figyelem: a PDF űrlapok nem kerülnek exportálásra.</translation>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5315"/>
         <source> pt</source>
-        <translation>pt</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="1934"/>
@@ -21748,7 +21753,7 @@ Corners:</source>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5301"/>
         <source> %</source>
-        <translation>%</translation>
+        <translation></translation>
     </message>
     <message>
         <source>St&amp;yle:</source>
@@ -22201,25 +22206,25 @@ Corners:</source>
         <location filename="../../../scribus/propertiespalette.cpp" line="2294"/>
         <location filename="../../../scribus/propertiespalette.cpp" line="4059"/>
         <source>&amp;X1:</source>
-        <translation>&amp;X1:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="2295"/>
         <location filename="../../../scribus/propertiespalette.cpp" line="4060"/>
         <source>X&amp;2:</source>
-        <translation>X&amp;2:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="2296"/>
         <location filename="../../../scribus/propertiespalette.cpp" line="4061"/>
         <source>Y&amp;1:</source>
-        <translation>Y&amp;1:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="2297"/>
         <location filename="../../../scribus/propertiespalette.cpp" line="4062"/>
         <source>&amp;Y2:</source>
-        <translation>&amp;Y2:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="3823"/>
@@ -25991,7 +25996,7 @@ lista hiányos a meghívott funkciók miatt.</translation>
         <location filename="../../../scribus/units.cpp" line="161"/>
         <source>°</source>
         <comment>degrees, unicode 0xB0</comment>
-        <translation>°</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/cmdtext.cpp" line="152"/>
@@ -26704,7 +26709,7 @@ Please choose another.</source>
         <location filename="../../../scribus/smcstylewidget.ui" line="283"/>
         <location filename="../../../scribus/smcstylewidget.ui" line="312"/>
         <source> %</source>
-        <translation> %</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/smcstylewidget.ui" line="230"/>
@@ -26884,7 +26889,7 @@ Please choose another.</source>
     <message>
         <location filename="../../../scribus/smlinestyle.cpp" line="596"/>
         <source> pt</source>
-        <translation> pt</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/smlinestyle.cpp" line="600"/>
@@ -26919,7 +26924,7 @@ Please choose another.</source>
     <message>
         <location filename="../../../scribus/smlinestyle.cpp" line="672"/>
         <source> pt </source>
-        <translation> pt </translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -26997,7 +27002,7 @@ Please choose another.</source>
     <message>
         <location filename="../../../scribus/smlinestylewidget.cpp" line="148"/>
         <source> pt</source>
-        <translation> pt</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/smlinestylewidget.ui" line="234"/>
@@ -28164,7 +28169,7 @@ Ha elmenti ebben a verzióban, a régebbi Scribus verziók már nem fogják töb
     <message>
         <location filename="../../../scribus/scribusdoc.cpp" line="2711"/>
         <source>Copy_of_</source>
-        <translation type="unfinished"></translation>
+        <translation>Másolat_</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusdoc.cpp" line="7316"/>
@@ -28174,12 +28179,12 @@ Ha elmenti ebben a verzióban, a régebbi Scribus verziók már nem fogják töb
     <message>
         <location filename="../../../scribus/scribusdoc.cpp" line="7363"/>
         <source>Cannot Delete In-Use Item</source>
-        <translation>Nem törölhető a használatban lévő elem.</translation>
+        <translation>Használatban lévő elem nem törölhető</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusdoc.cpp" line="7363"/>
         <source>The item %1 is currently being edited by Story Editor. The delete operation will be cancelled</source>
-        <translation>%1 elem jelenleg a szövegszerkesztőben változtatható. A törlés megszakítva.</translation>
+        <translation>%1 elem jelenleg a szövegszerkesztőben szerkesztés alatt áll. Törlés megszakítva</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusdoc.cpp" line="7905"/>
@@ -28194,12 +28199,12 @@ Ha elmenti ebben a verzióban, a régebbi Scribus verziók már nem fogják töb
     <message>
         <location filename="../../../scribus/scribusdoc.cpp" line="7902"/>
         <source>&amp;Skip locked objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Zárolt objektumok &amp;kihagyása</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusdoc.cpp" line="754"/>
         <source>An error occurred while opening ICC profiles, color management is not enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiba történt az ICC profil megnyitásakor, színkezelés nem lesz aktiválva.</translation>
     </message>
     <message>
         <source>Number of copies: %1
@@ -28214,22 +28219,24 @@ Függőleges eltolás :%3</translation>
         <source>Number of copies: %1
 Horizontal gap: %2
 Vertical gap: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Másolatok száma: %1
+Vízszintes térköz: %2
+Függőleges térköz: %3</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusdoc.cpp" line="886"/>
         <source>Adjusting Colors</source>
-        <translation>A színek módosítása</translation>
+        <translation>Színek módosítása</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusdoc.cpp" line="5961"/>
         <source>remove direct paragraph formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Közvetlen bekezdésformázás eltávolítása</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusdoc.cpp" line="6193"/>
         <source>remove direct char formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Közvetlen karakterformázás eltávolítása</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusdoc.cpp" line="9033"/>
@@ -28237,12 +28244,15 @@ Vertical gap: %3</source>
 Horizontal shift: %2
 Vertical shift: %3
 Rotation: %4</source>
-        <translation type="unfinished"></translation>
+        <translation>Másolatok száma: %1
+Vízszinten eltolás: %2
+Függőleges eltolás: %3
+Forgatás: %4</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusdoc.cpp" line="10108"/>
         <source>Group%1</source>
-        <translation type="unfinished">Csoport%1</translation>
+        <translation>Csoport%1</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusdoc.cpp" line="1235"/>
@@ -28910,18 +28920,18 @@ Függőleges eltolás :%3</translation>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="199"/>
         <source>Invalid argument: </source>
-        <translation>Érvénytelen jellemző: </translation>
+        <translation>Érvénytelen argumentum: </translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="201"/>
         <location filename="../../../scribus/scribusapp.cpp" line="219"/>
         <source>File %1 does not exist, aborting.</source>
-        <translation>%1 fájl nem létezik, megszakítva.</translation>
+        <translation>%1 fájl nem létezik, megszakítás.</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="409"/>
         <source>Usage: scribus [option ... ] [file]</source>
-        <translation type="unfinished"></translation>
+        <translation>Alkalmazás: scribus [beállítások ... ] [fájl]</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="410"/>
@@ -28931,47 +28941,47 @@ Függőleges eltolás :%3</translation>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="412"/>
         <source>Print help (this message) and exit</source>
-        <translation>Segítség (ezen üzenet) nyomtatása és kilépés</translation>
+        <translation>Segédlet (ezen üzenet) kiírása és kilépés</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="413"/>
         <source>Uses xx as shortcut for a language, eg `en&apos; or `de&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyelvek gyorselérése kétbetűs nyelvi kódokkal, pl. &apos;en&apos; vagy &apos;de&apos;</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="414"/>
         <source>List the currently installed interface languages</source>
-        <translation>A jelenleg telepített nyelvek listázása</translation>
+        <translation>Jelenleg telepített nyelvek listázása</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="411"/>
         <source>Show information on the console when fonts are being loaded</source>
-        <translation>Mutassa az információkat a konzolon a betűkészletek betöltése alatt</translation>
+        <translation>Információk megjelenítése a terminálon a betűkészletek betöltése alatt</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="415"/>
         <source>Do not show the splashscreen on startup</source>
-        <translation>Ne mutasd az indító képet az induláskor</translation>
+        <translation>Indítóképernyő elrejtése induláskor</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="421"/>
         <source>Output version information and exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Verziószám kiírása és kilépés</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="419"/>
         <source>Use right to left dialog button ordering (eg. Cancel/No/Yes instead of Yes/No/Cancel)</source>
-        <translation>Jobbról balra dialógus gomb sorrend használata (pl. Mégse/Nem/Igen az Igen/Nem/Mégse helyett)</translation>
+        <translation>Jobbról balra következő dialógusgomb sorrend alkalmazása (pl. Mégse/Nem/Igen az Igen/Nem/Mégse helyett)</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="417"/>
         <source>filename</source>
-        <translation>fájlnév</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="417"/>
         <source>Use filename as path for user given preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájlnév akalmazása útonalként a felhasználói beállításokhoz</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="440"/>
@@ -28986,7 +28996,7 @@ Függőleges eltolás :%3</translation>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="449"/>
         <source>scribus -l xx or scribus --lang xx, where xx is the language of choice.</source>
-        <translation type="unfinished"></translation>
+        <translation>scribus -l xx vagy scribus --lang xx, ahol az xx a választott nyelv.</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="454"/>
@@ -28996,7 +29006,7 @@ Függőleges eltolás :%3</translation>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="463"/>
         <source>Scribus, Open Source Desktop Publishing</source>
-        <translation>Scribus, nyílt forráskódú kiadvány szerkesztő</translation>
+        <translation>Scribus, nyílt forráskódú kiadványszerkesztő</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="471"/>
@@ -29016,32 +29026,32 @@ Függőleges eltolás :%3</translation>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="474"/>
         <source>Issues</source>
-        <translation type="unfinished"></translation>
+        <translation>Hibák</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="416"/>
         <source>Stop the showing of the splashscreen on startup. Writes an empty file called .neversplash in ~/.scribus.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indítóképernyő megjelenítésének leállítása. Egy üres fájlt hoz lértre .neversplash néven a ~/.scribus könyvtárban.</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="420"/>
         <source>Download a file from the Scribus website and show the latest available version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Egy fájl letöltése a Scribus weboldaláról és a legfrissebb verzió megjelenítése.</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="425"/>
         <source>Display a console window</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminálalak megjelenítése</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="418"/>
         <source>Show location ICC profile information on console while starting</source>
-        <translation type="unfinished"></translation>
+        <translation>ICC profilok helyének megjelenítése a terminálablakban indításkor</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="217"/>
         <source>Invalid argument: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Érvénytelen argumentum: %1</translation>
     </message>
 </context>
 <context>
@@ -29049,7 +29059,7 @@ Függőleges eltolás :%3</translation>
     <message>
         <location filename="../../../scribus/scribusview.cpp" line="202"/>
         <source> %</source>
-        <translation>%</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Layer</source>
@@ -29783,7 +29793,7 @@ Függőleges eltolás :%3</translation>
         <location filename="../../../scribus/styleselect.cpp" line="123"/>
         <location filename="../../../scribus/styleselect.cpp" line="125"/>
         <source> %</source>
-        <translation>%</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/styleselect.cpp" line="124"/>
@@ -30209,7 +30219,7 @@ Függőleges eltolás :%3</translation>
         <location filename="../../../scribus/styleselect.cpp" line="40"/>
         <location filename="../../../scribus/styleselect.cpp" line="42"/>
         <source> %</source>
-        <translation>%</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/styleselect.cpp" line="41"/>
@@ -31751,7 +31761,7 @@ Text Style Selector</comment>
         <location filename="../../../scribus/tabgeneral.ui" line="104"/>
         <location filename="../../../scribus/tabgeneral.ui" line="147"/>
         <source> pt</source>
-        <translation> pt</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/tabgeneral.ui" line="91"/>
@@ -34037,7 +34047,7 @@ Az 1. és a 2. szint nagy méretű fájlt eredményez</translation>
     <message>
         <location filename="../../../scribus/tabtools.cpp" line="633"/>
         <source> pt</source>
-        <translation> pt</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/tabtools.cpp" line="124"/>
@@ -34097,7 +34107,7 @@ Az 1. és a 2. szint nagy méretű fájlt eredményez</translation>
         <location filename="../../../scribus/tabtools.cpp" line="452"/>
         <location filename="../../../scribus/tabtools.cpp" line="461"/>
         <source> %</source>
-        <translation>%</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/tabtools.cpp" line="245"/>
@@ -34576,7 +34586,7 @@ Az 1. és a 2. szint nagy méretű fájlt eredményez</translation>
         <location filename="../../../scribus/tabtypography.cpp" line="126"/>
         <location filename="../../../scribus/tabtypography.cpp" line="142"/>
         <source> %</source>
-        <translation> %</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/tabtypography.cpp" line="33"/>
@@ -34938,7 +34948,7 @@ Az 1. és a 2. szint nagy méretű fájlt eredményez</translation>
         <location filename="../../../scribus/plugins/tools/transform/transformdialogbase.ui" line="162"/>
         <location filename="../../../scribus/plugins/tools/transform/transformdialogbase.ui" line="225"/>
         <source> %</source>
-        <translation> %</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/transform/transformdialogbase.ui" line="206"/>
@@ -35127,7 +35137,7 @@ Az 1. és a 2. szint nagy méretű fájlt eredményez</translation>
         <location filename="../../../scribus/styleselect.cpp" line="73"/>
         <location filename="../../../scribus/styleselect.cpp" line="75"/>
         <source> %</source>
-        <translation>%</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../scribus/styleselect.cpp" line="74"/>
@@ -35954,38 +35964,39 @@ X: %4, Y: %5</translation>
     <message>
         <location filename="../../../scribus/upgradechecker.cpp" line="111"/>
         <source>Timed out when attempting to get update file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Időtúllépés a frissítési fájl letöltési kísérlete közben.</translation>
     </message>
     <message>
         <location filename="../../../scribus/upgradechecker.cpp" line="140"/>
         <source>File not found on server</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem található a fájl a szerveren</translation>
     </message>
     <message>
         <location filename="../../../scribus/upgradechecker.cpp" line="142"/>
         <source>Could not open version file: %1
 Error:%2 at line: %3, row: %4</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzió információs fájl megnyitása nem sikerült: %1
+Hiba:%2 (%3. sor, %4. oszlop)</translation>
     </message>
     <message>
         <location filename="../../../scribus/upgradechecker.cpp" line="223"/>
         <source>An error occurred while looking for updates for Scribus, please check your internet connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiba történt a Scribus verziójának lekérdezése közben, kérem, ellenőrizze az internet elérést.</translation>
     </message>
     <message>
         <location filename="../../../scribus/upgradechecker.cpp" line="227"/>
         <source>No updates are available for your version of Scribus %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs elérhető frissítés a Scribus %1 verziójához</translation>
     </message>
     <message>
         <location filename="../../../scribus/upgradechecker.cpp" line="230"/>
         <source>One or more updates for your version of Scribus (%1) are available:</source>
-        <translation type="unfinished"></translation>
+        <translation>Egy vagy akár több frissítés is elérhető a Scribus %1 verziójához:</translation>
     </message>
     <message>
         <location filename="../../../scribus/upgradechecker.cpp" line="234"/>
         <source>Please visit www.scribus.net for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>További információk a www.scribus.net weboldalon.</translation>
     </message>
     <message>
         <location filename="../../../scribus/upgradechecker.cpp" line="123"/>
@@ -35995,27 +36006,27 @@ Error:%2 at line: %3, row: %4</source>
     <message>
         <location filename="../../../scribus/upgradechecker.cpp" line="218"/>
         <source>Operation canceled</source>
-        <translation type="unfinished"></translation>
+        <translation>Művelet megszakítva</translation>
     </message>
     <message>
         <location filename="../../../scribus/upgradechecker.cpp" line="231"/>
         <source>This list may contain development/unstable versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>A lista lehet hogy fejlesztői, instabli verziót is tartalmaz.</translation>
     </message>
     <message>
         <location filename="../../../scribus/upgradechecker.cpp" line="314"/>
         <source>Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiba: %1</translation>
     </message>
     <message>
         <location filename="../../../scribus/upgradechecker.cpp" line="86"/>
         <source>No data on your computer will be sent to an external location</source>
-        <translation type="unfinished"></translation>
+        <translation>Semmilyen adat nem kerül elküldésre erről a számítógépről</translation>
     </message>
     <message>
         <location filename="../../../scribus/upgradechecker.cpp" line="92"/>
         <source>Attempting to get the Scribus version update file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kísérlet a Scribus verziófrissítési fájl lekérésére:</translation>
     </message>
 </context>
 <context>
